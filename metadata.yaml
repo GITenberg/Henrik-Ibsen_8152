@@ -1,0 +1,29 @@
+_repo: Henrik-Ibsen_8152
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Gosse, Edmund
+    aliases:
+    - Gosse, Edmund W. (Edmund William)
+    - Gosse, Edmund William, Sir
+    birthdate: 1849
+    deathdate: 1928
+    gutenberg_agent_id: '959'
+    url: http://www.gutenberg.org/2009/agents/959
+    wikipedia: http://en.wikipedia.org/wiki/Edmund_Gosse
+description: ''
+gutenberg_issued: '2005-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8152'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Dramatists, Norwegian -- 19th century -- Biography'
+- !lcsh 'Ibsen, Henrik, 1828-1906'
+- GITenberg
+title: Henrik Ibsen
+url: http://www.gutenberg.org/ebooks/8152
